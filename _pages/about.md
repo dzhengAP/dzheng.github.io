@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am David (Dongqi), a hardware-software co-design engineer with a unique blend of real-world product experience at Apple and deep research in display systems, LLM/LRMs, on-device AI, computer vision and federated learning. Proven expertise in co-architecting systems about on-device machine learning deployment, efficient reasoning systems, and distributed optimization. Passionate about designing intelligent, efficient, and scalable computing systems through co-design, modeling, and performance analysis! Prior to Apple, I received my Ph.D. in Electrical and Computer Enginerring at Purdue University, West Lafayette in 2022. I received my bachelor's degree in Electonic and Information Science from UESTC. 
+Welcome! I am David (Dongqi), a hardware-software co-design engineer with a unique blend of real-world product experience at Apple and deep research in display systems, LLM/LRMs, on-device AI, computer vision and federated learning. Prior to Apple, I received my Ph.D. in Electrical and Computer Enginerring at Purdue University, West Lafayette in 2022. I received my bachelor's degree in Electonic and Information Science from UESTC. 
 
 
 Research Interests
