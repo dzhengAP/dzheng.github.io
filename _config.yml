@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "California, United States"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dongqi Zheng-'s-Homepage"
+title                    : "Dongqi Zheng's Homepage"
 title_separator          : "-"
 name                     : &name "Dongqi (David) Zheng"
 description              : &description "Apple Hardware Design Engineer"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dzheng.png"
   name             : "Dongqi (David) Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Hardware Design Engineer"
