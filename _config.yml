@@ -24,7 +24,7 @@ remote_theme             : academicpages/academicpages.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/dqzheng.png"
+  avatar           : "images/dqzheng.png"
   name             : "Dongqi (David) Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Senior Hardware Design Engineer"
